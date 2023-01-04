@@ -12,7 +12,4 @@ TEAM CYBORG Has Been Disclosed Now.
 [Click Here To Join](https://discord.gg/dogla)
 
 # Version & Lib Info:
-[+] Language - Python
-[+] Discord Lib: Discord.py
-[+] Discord.py Version: v2
-[+] Python Version: 3.8.12
+[+] Language - Python | Discord Lib: Discord.py | Discord.py Version: v2 | Python Version: 3.8.12
